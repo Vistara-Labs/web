@@ -15,8 +15,8 @@ export default function Home() {
     display: 'flex',
     margin: '0 auto',
     flexDirection: 'column' as const,
-    textAlign: 'center',
-    justifyContent: 'center'
+    textAlign: 'center' as const,
+    justifyContent: 'center' as const,
   };
 
   return (
