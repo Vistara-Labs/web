@@ -77,37 +77,3 @@ img {
   max-width: 100%;
   height: auto;
 }
-
-/* Navbar styles */
-nav ul {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 1rem;
-}
-
-nav li {
-  margin-right: 1rem;
-}
-
-nav li:last-child {
-  margin-right: 0;
-}
-
-nav a {
-  text-decoration: none;
-  color: #2b6cb0;
-  transition: color 0.2s ease;
-}
-
-nav a:hover {
-  color: #2a4365;
-}
-
-/* Footer styles */
-footer {
-  margin-top: 3rem;
-  padding-top: 1rem;
-  border-top: 1px solid #e2e8f0;
-}
-
-
