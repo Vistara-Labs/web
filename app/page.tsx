@@ -54,6 +54,7 @@ export default function Home() {
                   4 Trestle Way, <br/>
                   Dover, NH 03820 USA<br/>
                   Email: mayur@vistara.dev<br/>
+                  Website: https://vistara.dev<br />
                 </p>
             </section>
 
