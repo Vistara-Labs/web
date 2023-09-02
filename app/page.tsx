@@ -47,16 +47,6 @@ export default function Home() {
               </a>
             </div>
             {/* Why Vistara? */}
-            <section style={{ ...sectionStyle, marginTop: '30px' }}>
-                <h2 style={{ fontSize: '1.5em' }}>Address:</h2>
-                <p style={{ fontSize: '1.1em' }}>
-                  Vistara Labs, Inc. <br/>
-                  4 Trestle Way, <br/>
-                  Dover, NH 03820 USA<br/>
-                  Email: mayur@vistara.dev<br/>
-                  Website: https://vistara.dev<br />
-                </p>
-            </section>
 
         </main>
     </div>
