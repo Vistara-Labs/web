@@ -28,11 +28,11 @@ export default function Home() {
 
         <main style={{ padding: '20px' }}>
             <h1 style={{ fontSize: '2em', borderBottom: '2px solid #444', paddingBottom: '10px' }}>
-              Accelerating rollups with Vistara
+              Hardware Availability Layer for the Modular Web
             </h1>
             {/* Main Banner */}
             <section style={{ ...sectionStyle, marginTop: '20px' }}>
-                <h2 style={{ fontSize: '1.5em' }}>Democratizing access to rollups</h2>
+                <h2 style={{ fontSize: '1.5em' }}>Democratizing access to decentralized hardware</h2>
             </section>
 
             <div className="css-1s8w0cj social-links-container">
